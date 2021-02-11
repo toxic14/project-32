@@ -20,9 +20,9 @@ function preload(){
   ground6=loadImage("load 14.png");
 
   ground7=loadImage("We.png");
-  fu=loadImage("Capture2.png");
+  fu=loadImage("Capture2.PNG");
   fu0=loadImage("Capture5.png");
-  fu9=loadImage("Capture0.png");
+  fu9=loadImage("Capture0.PNG");
 
   fuel2=loadImage("Fuel can.png");
   fue2=loadImage("load 8.png");
